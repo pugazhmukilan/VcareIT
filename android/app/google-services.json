@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357247682443",
+    "project_id": "vtapp-85fa1",
+    "storage_bucket": "vtapp-85fa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357247682443:android:31cf844f224c4139c8d18e",
+        "android_client_info": {
+          "package_name": "com.example.vitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3h1d3PR06tnMoDsCZJg6VZFZxgyTn_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
